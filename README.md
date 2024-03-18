@@ -15,14 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
+ * :bust_in_silhouette:   Eduardo Sánchez Marroquino     :octocat:     
  * :bust_in_silhouette:  BB     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -43,13 +39,16 @@ Miembros
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>>Se ha decidido hacer a estas dos personas ya que son dos perfiles que pueden estar interesados en la web pero que tienen necesidades diferentes.
+Por un lado tenemos a Ismael, un perfil adulto, que busca actividades suaves para realizar con la familia al aire libre, y que busca que la aplicación sea fácil de usar e intuitiva.
+Por otro lado está Indara,  un perfil más joven, y que busca realizar actividades más fuertes y probar cosas nuevas, de cara a la web busca que sea intuitiva pero también que sea una web con un diseño más moderno, y obviamente espera encontrar las actividades que quiere practicar y que estas estén bien detalladas.
+
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> Estos Journey Maps han surgido después de ponerme en la piel de los dos usuarios y sus necesidades. Por un lado el de Ismael surge de querer encontrar alguna ruta o actividad a hacer con su familia cerca de Granada, y el de Indara de su necesidad de buscar actividades nuevas y desafíos. Los dos acaban con una mala experiencia con la web, Ismael porque no encuentra lo que quería e Indara porque no encuentra toda la información que ella hubiera querido tener y porque se encuentra con errores dentro de la web.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
@@ -58,6 +57,7 @@ Miembros
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - 
 
 
 ## Paso 2. UX Design  
