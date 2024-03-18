@@ -41,13 +41,18 @@ Miembros
 Análisis Competitivo: Granaventour vs. Multiaventura Buendía vs. Nattule
 
 Variedad de Actividades:
+
 Granaventour ofrece una amplia gama de actividades turísticas en Granada, tanto actividades de verano como invierno.
+
 Multiaventura Buendía se especializa en actividades de turismo de aventura en la provincia de Cuenca, incluyendo rafting, escalada y rutas en 4x4.
+
 Nattule ofrece una variedad de actividades de turismo sostenible de naturaleza y aventura en toda España, como senderismo, kayak y observación de aves.
 
 Usabilidad del Sitio Web:
 Granaventour oferta actividades, no hay disponibilidad de filtrar por lugar o fecha y la búsqueda no funciona. El usuario es obligado a elegir primer la actividad para ver después su disponibilidad y su precio.
+
 Multiaventura Buendía permite filtrar por actividad, localizacion y fecha. Y desde la página principal se muestran los precios. También hay un apartado a parte para alquilar material.
+
 Nattule tiene una gran variedad de acividades por toda España. Desde un primer momento nos deja escoger la comunidad autónoma para así filtrar las actividades. Tiene un buscador manual, pero no existe división alguna entre tipos de actividades, están todas mezcladas.
 
 
