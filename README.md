@@ -54,8 +54,8 @@ Por otro lado está Indara,  un perfil más joven, y que busca realizar activida
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Enlace al documento:   
+>>> - Valoración final (numérica): 54
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 >>> - 
 
