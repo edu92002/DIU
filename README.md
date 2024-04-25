@@ -191,6 +191,8 @@ Usuario se apunta en el partido
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![unnamed](https://github.com/edu92002/DIU/assets/83074356/fced3aca-b2b3-4514-8529-89f7937b8d06)
+
 
 >>> Identificar términos para diálogo con usuario  
 
@@ -226,6 +228,29 @@ Reglas del volley	   Esta sección proporciona información sobre las reglas y r
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
+Boceto inicial:
+![unnamed](https://github.com/edu92002/DIU/assets/83074356/adcf31c8-5ac9-44f0-9801-3087b4ff9f57)
+
+Tras revisarlo con el profesor, se decidieron realizar una serie de cambios.
+
+Primero, se replanteó el concepto de Noticias, finalmente se ha decidido cambiarlo por un apartado de próximamente, que cubrirá todo tipo de actividades próximas, ya sean entrenamientos, eventos, actividades extradeportivas, de forma que el usuario al meterse a la web sea lo primero que vea. De forma complementaria, seguirá habiendo un apartado de eventos y entrenamientos en el menú. En eventos estarán actividades extradeportivas y partidos amistosos, ya sea contra otros clubes/asociaciones o del mismo club, los cuales se realizarán en fines de semana.
+Por otro lado, los entrenamientos consistirán en sesiones para mejorar a través de ejercicios de técnica, táctica y juegos.
+
+Además, se ha decidido sustituir la parte de “Sobre nosotros” por una frase que motive a unirse al club y una breve descripción.
+
+El WireFrame ha quedado de la siguiente forma:
+
+WireFrame:
+
+![unnamed (1)](https://github.com/edu92002/DIU/assets/83074356/1ca5ba44-e672-43d6-9ee4-7480f7c5faa4)
+
+Se ha puesto el apartado de inscribirse al principio, se exigirá que tengas que estar inscrito para apuntarte a los entrenamientos o actividades, así como para participar en el foro de la comunidad. Se ha diseñado solo esta pantalla inicialmente (hago el trabajo de forma individual).
+
+El diseño en móvil ha quedado de la siguiente forma:
+
+Diseño Movil/Responsive
+
+![unnamed (2)](https://github.com/edu92002/DIU/assets/83074356/a592cd22-023f-4462-97c8-7aa2bc3e34aa)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
