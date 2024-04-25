@@ -5,14 +5,13 @@ Grupo: DIU1_01AABB.  Curso: 2023/24
 Updated: 11/2/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Voley Fuentenueva
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Se pretende hacer un club no profesional/no federado de voley en Granada, pensado principalmente para jóvenes estudiantes, tanto para aquellos sin conocimiento previo que quieran comenzar a practicar algún deporte en equipo como para aquellos iniciados que quieran mejorar en este deporte.
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
 
 Miembros
  * :bust_in_silhouette:   Eduardo Sánchez Marroquino     :octocat:     
@@ -89,27 +88,104 @@ Por otro lado está Indara,  un perfil más joven, y que busca realizar activida
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
+Interesante/relevante
+   Apariencia colorida
+   Actividades filtradas por tipo
+   Variedad de actividades
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+Críticas constructivas
+   Margen de mejora en la clasificación de actividades
+   Diseño más moderno, con un menú más destacable y una distribución de la página web no tan básica.
+
+Preguntas a partir de la experiencia
+  ¿Por qué la búsqueda no funciona?
+  ¿Por qué no puedo ver el precio de las actividades?
+  ¿Por qué no hay feedback en los formularios?
+
+Nuevas ideas
+  Añadir nuevo menú de filtros por fecha, lugar y nombre, así como arreglar la búsqueda.
+  Añadir un rango de precio por persona en las actividades.
+  Aumentar el feedback en la web, especialmente en los formularios, donde no se da feedback ni de la disponibilidad ni de los precios.
+  Aumentar la información de las actividades, dar más detalles.
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+Se pretende hacer un club no profesional/no federado de voley en Granada, pensado principalmente para jóvenes estudiantes, tanto para aquellos sin conocimiento previo que quieran comenzar a practicar algún deporte en equipo como para aquellos iniciados que quieran mejorar en este deporte.
+Se ha pensado en esta propuesta debido a que se ha visto que hay falta de equipos de voley dentro de la ciudad de Granada, ya que tenemos al equipo de la Universidad de Granada pero que es un equipo de alto nivel pensado para deportistas de alto rendimiento. Es por ello que, viendo el gran nicho de jóvenes universitarios que hay en la ciudad, un club como este puede tener recorrido, pues además sería una forma de socializar y conocer gente nueva.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Propuesta de valor
+
+
+Necesidades
+
+Escasez de opciones de voleibol para estudiantes fuera del equipo de la Universidad de Granada.
+Demanda de un entorno menos competitivo para practicar voleibol entre jóvenes universitarios de diversos niveles de habilidad.
+
+
+Propósito
+
+Establecer un club de voleibol no profesional en Granada, centrado en jóvenes estudiantes, proporcionando un espacio para practicar deporte en equipo de forma inclusiva y amigable.
+Objetivos
+
+Crear una comunidad de voleibol accesible para estudiantes universitarios.
+Proporcionar oportunidades de desarrollo deportivo y personal a través del voleibol.
+Fomentar un ambiente inclusivo y amigable para la práctica del voleibol entre estudiantes.
+
+
+Acciones
+
+Establecer el club y definir una estructura organizativa.
+Alquilar instalaciones adecuadas para entrenamientos y partidos.
+Promocionar el club en campus universitarios y eventos estudiantiles.
+Organizar sesiones de entrenamiento regulares y eventos sociales para los miembros.
+
+
+Métricas
+
+Número de miembros inscritos en el club.
+Participación y asistencia a los entrenamientos y eventos del club.
+Retroalimentación positiva de los miembros sobre la calidad de los entrenamientos y el ambiente del club.
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
+Un "user map" (mapa de usuario) es una representación visual que muestra el recorrido o la experiencia completa de un usuario a través de un producto, servicio o sistema. 
+Por otro lado, un taskflow es la secuencia de pasos que un usuario sigue para completar una tarea en una aplicación o sistema.
+
+>>> TASK FLOW
+
+Tarea                                     Relevancia
+Inscribirse en el club de voleibol        H (alta)
+Apuntarse a entrenamientos                H (alta)
+Apuntarse a partidos                      H (alta)
+Socializar con otros miembros (foro)      M (media)
+Inscribirse (registro)                    H (alta)
+
+
+Inscribirse en el Club de Voleibol:
+
+Usuario accede al sitio web.
+Completa el formulario de inscripción con sus datos personales y de contacto.
+Recibe confirmación de inscripción y detalles sobre los próximos pasos.
+
+
+Asistir a los Entrenamientos:
+
+Usuario clicka en el apartado de entrenamientos.
+Usuario escoge su nivel (iniciante o aficionado)
+Usuario consulta entrenamientos en calendario.
+*Usuario se registra si no lo está ya.
+Usuario se apunta en el entrenamiento.
+
+Participar en Partidos y Torneos:
+
+Usuario clicka en el apartado de eventos.
+Usuario escoge la opcion de proximos partidos
+Usuario consulta eventos en calendario.
+*Usuario se registra si no lo está ya.
+Usuario se apunta en el partido
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -118,10 +194,32 @@ Por otro lado está Indara,  un perfil más joven, y que busca realizar activida
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Término	             Significado
 
+Sobre nosotros	      Sección que proporciona información detallada sobre el club de voleibol, incluyendo su historia, misión, visión, valores, y cualquier otro                         detalle relevante que describa la identidad y el propósito del club.
+
+Eventos	             Desplegable que te puede llevar a partidos o actividades extradeportivas.
+
+Entrenamientos	      Aquí se ofrecen detalles sobre los programas de entrenamiento ofrecidos por el club de voleibol, incluyendo horarios, ubicaciones, niveles de                      habilidad y entrenadores.
+
+Comunidad	           Desplegable que te puede llevar a galería o foro.
+
+Inscripción         	Aquí se proporciona información detallada sobre el proceso de inscripción y membresía en el club de voleibol. Incluye el formulario de                             registro. 
+
+Políticas y términos	Esta sección contiene las políticas, términos y condiciones que rigen la participación en el club de voleibol. Puede                                               incluir normas de comportamiento, políticas de privacidad, términos de servicio, y cualquier otra información legal o reglamentaria         
+                     relevante para los miembros y usuarios del sitio web.
+                     
+Recursos	            Aquí se ofrecen diversos recursos útiles para los miembros, como un apartado de reglas del voley, tutoriales y sitios relacionados.
+
+Próximos partidos	   Esta sección muestra una lista de los próximos partidos y encuentros programados del equipo de voleibol del club, incluyendo detalles como                         fechas, horas, ubicaciones y oponentes.
+
+Act. extradeportivas	Aquí se destacan actividades y eventos organizados por el club de voleibol que van más allá de la competición deportiva, como excursiones,                         eventos sociales, campamentos…
+
+Galería	             Esta sección presenta una colección de imágenes y vídeos relacionados con el club de voleibol, que pueden incluir fotos de partidos, eventos,                      entrenamientos, celebraciones y otros momentos destacados en la vida del club.
+
+Foro	                Aquí se ofrece un espacio de discusión y comunicación para los miembros y seguidores del club de voleibol, donde pueden compartir ideas,                           hacer preguntas, intercambiar opiniones y participar en conversaciones relacionadas con el voleibol y otros temas relevantes.
+
+Reglas del volley	   Esta sección proporciona información sobre las reglas y regulaciones del juego de voleibol, incluyendo las normativas oficiales y las reglas                       básicas.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
