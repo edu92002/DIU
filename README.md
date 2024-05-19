@@ -258,28 +258,59 @@ Diseño Movil/Responsive
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Como paso inicial, he diseñado un Moodboard para la aplicación, en el que se incluyen imágenes representativas, paleta de colores y fuentes utilizadas. Se ha optado por un blanco predominante de fondo acompañado de un tono verde como contraste y detalles grises. Para la fuente se ha optado principalmente por la fuente Lato. A continuación podemos ver el MoodBoard:
+![image](https://github.com/edu92002/DIU/assets/83074356/aee24d38-5f3a-4ed1-afe8-b3ff4c713b5e)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Para el Landing Page, se han usado los colores definidos en el MoodBoard y se ha implementado un header con un texto que incite al club. A continuación podemos ver el resultado:
 
->>> Plantear Landing Page 
+![image](https://github.com/edu92002/DIU/assets/83074356/8e614f83-ccf4-4b55-9723-e566036ddd92)
 
+ 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+A continuación se muestran los patrones de diseño que se van a utilizar en la aplicación, los cuales de han elegido desde la guía de patrones materials.m3 de Google:
+
+Progress indicators: Para mostrar el progreso a la hora de realizar un proceso y el Scroll de la aplicación.
+![image](https://github.com/edu92002/DIU/assets/83074356/7ed6e393-f1d8-4150-a5e6-5fb2569fba92)
+
+
+Menu (navBar adaptada a móvil): Como menú principal de la aplicación
+![image](https://github.com/edu92002/DIU/assets/83074356/44e8e5d4-08b9-4b8c-87b2-7f213962e23e)
+
+Carousel: Para mostrar imágenes.
+![image](https://github.com/edu92002/DIU/assets/83074356/ca23b0f4-a58e-4f0b-b452-d204e720acc5)
+
+
+Search: Buscador de la aplicación para filtrar resultados.
+![image](https://github.com/edu92002/DIU/assets/83074356/4b36cd09-a8de-41c8-b748-75432e9c3d4b)
+
+
+Tabs: Para cambiar entre apartados de una sección de la página.
+![image](https://github.com/edu92002/DIU/assets/83074356/d184d86a-8ecc-4eb9-a1a2-b92d2ad95c95)
+
+
+List: Para lista de elementos.
+![image](https://github.com/edu92002/DIU/assets/83074356/87caf338-d32e-465f-a8a7-aaad87348121)
+
+
+TextFields: Para los formularios de la aplicación, principalmente el de inscripción
+
+![image](https://github.com/edu92002/DIU/assets/83074356/7ba83472-9636-4962-b491-74639a46f84b)
+
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Basándonos en los wireframe que diseñamos en la práctica anterior y utilizando las fuentes, paleta de colores, y logo que hemos creado y estudiado anteriormente, recogemos nuestra propuesta de bocetos Hi-Fi (mockup) en este documento.
+
+Este mockup se ha diseñado con Figma y para apreciar mejor el diseño se recomienda encarecidamente probar la simulación del prototipo aquí.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
