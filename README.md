@@ -309,13 +309,27 @@ TextFields: Para los formularios de la aplicación, principalmente el de inscrip
 ----
 
 Basándonos en los wireframe que diseñamos en la práctica anterior y utilizando las fuentes, paleta de colores, y logo que hemos creado y estudiado anteriormente, recogemos nuestra propuesta de bocetos Hi-Fi (mockup) en este documento.
-
+![Mockup](P3/Material 3 Design Kit (Community) (4).pdf)
 Este mockup se ha diseñado con Figma y para apreciar mejor el diseño se recomienda encarecidamente probar la simulación del prototipo aquí.
+https://www.figma.com/proto/SdzaoW19tx39xxcseckwo7/Material-3-Design-Kit-(Community)?node-id=54802-25393&t=9wfMzjUPt75ouLRm-0&scaling=scale-down&page-id=47909%3A2&starting-point-node-id=54802%3A25393
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
+Inspiración
+VoleyFuentenueva surge como iniciativa para ofrecer a los jóvenes de Granada no solo la posibilidad de aprender y divertirse con el Volleyball, sino también la posibilidad de conocer gente nueva y realizar varios tipos de actividades. 
 
+En primer lugar, observamos las experiencias de dos personas, Ismael e Indara, por un lado Ismael es una persona adulta con conocimientos básicos de informática, mientras que Indara es una persona más joven con más conocimientos y que espera unos diseños más sofisticados.
+
+Desarrollo del diseño
+Lo primero que se realizó fue un MoodBoard donde se recogieron los principales aspectos que iba a presentar la aplicación, la paleta de colores, la fuente, el logotipo, esto es, se le dió una personalidad a la aplicación.
+
+Posteriormente se diseñó una landing page que llamara la atención de los usuarios, con un Header que incentivara a la gente a conocernos y unirse a nuestra familia.
+
+También se estudiaron que patrones de diseño se iban a utilizar en la aplicación, los cuales se escogieron de las Guidelines de Materials.m3.
+
+Conclusión
+El resultado de todo esto ha sido una aplicación con un diseño accesible y funcional, con diferentes secciones, todas visibles todas desde un primer momento, de forma que el usuario no se siente perdido en ningún momento, y que cubre las principales necesidades de la aplicación
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto
