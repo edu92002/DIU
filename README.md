@@ -309,7 +309,7 @@ TextFields: Para los formularios de la aplicación, principalmente el de inscrip
 ----
 
 Basándonos en los wireframe que diseñamos en la práctica anterior y utilizando las fuentes, paleta de colores, y logo que hemos creado y estudiado anteriormente, recogemos nuestra propuesta de bocetos Hi-Fi (mockup) en este documento.
-![Mockup](P3/Material 3 Design Kit (Community) (4).pdf)
+[![Mockup](P3/Material 3 Design Kit (Community) (4).pdf)](https://github.com/edu92002/DIU/blob/master/P3/Material%203%20Design%20Kit%20(Community)%20(4).pdf)
 Este mockup se ha diseñado con Figma y para apreciar mejor el diseño se recomienda encarecidamente probar la simulación del prototipo aquí.
 https://www.figma.com/proto/SdzaoW19tx39xxcseckwo7/Material-3-Design-Kit-(Community)?node-id=54802-25393&t=9wfMzjUPt75ouLRm-0&scaling=scale-down&page-id=47909%3A2&starting-point-node-id=54802%3A25393
 
