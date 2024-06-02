@@ -424,16 +424,6 @@ que partes de la app llamaban la atención de los usuarios y porque. Después, s
 Los usuarios que han participado en el análisis son Natalia, una estudiante joven de farmacia con experiencia en tecnologías y aplicaciones; y Elena, una mujer adulta que trabaja como enfermera y que no tiene
 tanta experiencia con este tipo de apps.
 
-### Resultados obtenidos
-
-
-
-(resultado de SUS)
-
-
-(resultado de eyetracking)
-
-
 # 4 CONCLUSIONES 
 
 
@@ -475,28 +465,36 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
 Diseño del experimento 
 ----
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+Para el experimento, se han escogido a las dos usuarias ya vistas anteriormente, a las cuales se les expondrá a los bocetos durante 6 segundos cada uno.
+
+Las áreas de interés identificadas de la aplicación a analizar son las siguientes:
+![image](https://github.com/edu92002/DIU/assets/83074356/fed228fe-1c55-4baf-aad3-6327c599e96e)
 
 
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
 
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
 
 Resultados y valoración 
 -----
 
+Usuario 3:
+![image](https://github.com/edu92002/DIU/assets/83074356/9538efa8-596d-4c83-828b-f834fd002edc)
+
+En el primer boceto, podemos ver que las 3 áreas de interés son las que se ven representadas en el HeatMap, por lo que no hay sorpresas. Destacar si acaso una ligera atención al menú inferior de la página, lo cual no se había previsto.
+
+En el segundo boceto, el usuario se fija principalmente en el punto central de la página, no presta atención a la parte superior ni a los botones de reserva, quizás porque deberían de llamar más la atención. Los botones podrían ser más grandes.
+
+En el último boceto, los resultados son los esperados, pero porque no hay muchas áreas de interés posibles.
+
+Usuario 4:
+![image](https://github.com/edu92002/DIU/assets/83074356/cfd8d6a4-01d0-4a90-8ba4-5ab61cc53a23)
+
+Estos son similares a los anteriores, como diferencias a destacar cabe decir que este usuario se ha fijado más en la zona del buscador. Además, destacar que este usuario también ha prestado bastante atención a la zona inferior.
 
 
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
+En resumen, los bocetos dados son bastante básicos, por lo que no resulta complicado predecir las zonas de interés en las que se va a fijar el usuario. Ahora bien, los botones podrían ser más grandes y quizás también la zona del buscador, especialmente en alguna página donde hay bastante espacio disponible, se podría aprovechar más el espacio.
 
 
 
