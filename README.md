@@ -335,6 +335,139 @@ El resultado de todo esto ha sido una aplicación con un diseño accesible y fun
 >>> Documente y resuma el diseño de su producto
 
 
+## Paso 4. Evaluación 
+
+
+![Método UX](img/ABtesting.png) 4.a Caso asignado
+----
+
+
+>>> Breve descripción del caso asignado con enlace a  su repositorio Github
+
+
+![Método UX](img/usability-testing.png) 4.b User Testing
+----
+
+>>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+ 
+
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+
+
+![Método UX](img/Survey.png) 4.c Cuestionario SUS
+----
+
+![image](https://github.com/edu92002/DIU/assets/83074356/7d3aef80-f07e-43b4-86a5-f535b7a47567)
+
+Podemos observar que ambas aplicaciones han recibido buenas puntuaciones, aunque la aplicación A ligeramente superior a la de la aplicación B.
+No han surgido problemas mayores a los usuarios, pues ambas webs tienen un diseño facil e intuitivo de usar. Como mucho destacar que el usuario 4 ha necesitado algún timepo de adaptación más largo, pero lo cual es normal ya que no está tan famaliarizada con este tipo de apps.
+
+![Método UX](img/usability-report.png) 4.d Usability Report
+----
+
+
+### Evaluación de usabilidad del proyecto 
+
+## Rutas Andalucía
+## 2/06/2024
+
+
+
+![image](https://github.com/edu92002/DIU/assets/83074356/cd63f993-6da4-4cde-83f4-380b6afeab13)
+
+
+[[Enlace a GITHUB del proyecto]](https://github.com/rn2k00/DIU3.designers/blob/master/README.md)
+
+
+
+
+
+## Realizado por:
+
+DIU1_noname_1, formado por Eduardo Sánchez Marroquino
+
+
+
+
+# 1 DESCRIPCIÓN DEL WEBSITE
+
+La app a analizar consiste en una aplicación de rutas de andalucía, donde el usuario puede filtrar por sitio y hacer búsquedas de rutas y reservarlas. El usuario para ello necesita registrarse y tener una cuenta. En el menú principal el usuario puede ver sus reservas y alguna reserva destacada, así como la predicción meterorológica de los siguientes días.
+
+También hay un apartado de rutas donde salen rutas recomendadas al usuario y que ppuede reservar el usuario. 
+Por último, hay un apartado de perfil donde el usuario puede ver y editar sus datos, así como ver información acerca de la empresa y cerrar su sesión
+
+
+# 2 RESUMEN EJECUTIVO
+
+
+
+
+
+
+
+
+# 3 METODOLOGIA 
+
+#### Metodología de usabililidad
+
+Para analizar la usabilidad de la app se ha realizado un testing A/B y un test SUS, donde primero se ha realizado un eye tracking de los usuarios con algunos de los bocetos de la app para analizar 
+que partes de la app llamaban la atención de los usuarios y porque. Después, se dejó a los usuarios probar la aplicación en FIGMA y que intentaran realizar algunas acciones.
+ 
+
+### Test de usuarios: Participantes
+
+Los usuarios que han participado en el análisis son Natalia, una estudiante joven de farmacia con experiencia en tecnologías y aplicaciones; y Elena, una mujer adulta que trabaja como enfermera y que no tiene
+tanta experiencia con este tipo de apps.
+
+### Resultados obtenidos
+
+
+
+(resultado de SUS)
+
+
+(resultado de eyetracking)
+
+
+# 4 CONCLUSIONES 
+
+
+
+Tras las pruebas realizadas, podemos concluir que la app cumple con los requisitos necesarios y que permite realizar las funciones para lo que ha sido pensada de forma sencilla. Como puntos a mejorar, y tras realizar 
+el eyetracking, se cree que algunos botones como los de Reserva podrían ser más llamativos y grandes, al igual que la barra de búsqueda. Además, en la pantalla de top Rutas se podría añadir algún elemento más, ya que
+queda algo de espacio sin usar.
+
+
+### Puntos positivos 
+
+* Sencilla de usar
+* Diseño intuitivo
+* Estructura de la web clara
+* Bastantes imágenes
+
+
+
+### Recomendaciones y propuesta de mejoras: 
+
+Rediseño del boceto de top rutas para hacerlo más llamativo visualmente.
+Aumento de botones para que llamen más la atención del usuario.
+Búsqueda algo más grande o llamativa ya que es una parte muy importante de la web.
+
+
+5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
+----
+
+
+>> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
+>> con los resultados del A/B testing, de eye tracking y del usability report:
+>>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+
+
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
 Exportación a HTML/Flutter
@@ -366,67 +499,8 @@ Resultados y valoración
 
 
 
-## Paso 4. Evaluación 
 
-
-![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
-----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.d Usability Report
-----
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
-
-
-
-
-
-5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-----
-
-
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
-
-
-
-
-## Conclusión final / Valoración de las prácticas
+# Conclusión final / Valoración de las prácticas
 
 
 >>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
