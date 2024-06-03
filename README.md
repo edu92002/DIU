@@ -416,7 +416,7 @@ DIU1_noname_1, formado por Eduardo Sánchez Marroquino
 
 La app a analizar consiste en una aplicación de rutas de andalucía, donde el usuario puede filtrar por sitio y hacer búsquedas de rutas y reservarlas. El usuario para ello necesita registrarse y tener una cuenta. 
 
-### DRESUMEN EJECUTIVO
+### RESUMEN EJECUTIVO
 
 La aplicación tiene varias funcionalidades distribuidas en varias pantallas:
 
@@ -543,7 +543,7 @@ En resumen, los bocetos dados son bastante básicos, por lo que no resulta compl
 # Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+El proceso de desarrollo de diseño siguiendo la metodología UX ha demostrado ser efectivo, ya que al centrarse en las necesidades y comportamientos de los usuarios, se logra un diseño más intuitivo y satisfactorio. En mi opinión, este enfoque es muy positivo, ya que los resultados obtenidos reflejan una comprensión profunda del usuario y sus expectativas. El feedback continuo permite ajustes precisos, mejorando la experiencia del usuario y aumentando la satisfacción general. En resumen, el uso de la metodología UX en el diseño ha sido muy beneficioso y ha dado como resultado productos que cumplen con la finalidad  con la que se habian ideado, esto es, diseñar interfaces de calidad y que siguen las pautas de diseño recomendadas.
 
 
 
