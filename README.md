@@ -341,22 +341,40 @@ El resultado de todo esto ha sido una aplicación con un diseño accesible y fun
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Me ha tocado el grupo DIU3_Designers: https://github.com/rn2k00/DIU3.designers/blob/master/README.md
+Quienes han desarrollado una app de rutas de andalucía.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+Tras lanzar los dados, se han obtenido los siguientes resultados:
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+3,1,4
+2,3,3
+1,5,6
+6,6,3
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+Analicemos que problemas podrían surgirles a estas personas al usar las apps:
+
+Perfil 1:  Joven, trabajador, inquieto:
+
+Es estudiante de informática, no tendrá problemas al analizar la app, aunque quizá sea bastante exigente durante el análisis.
+
+Perfil 2: Feliz, cariñoso
+
+Perfil similar al anterior, aunque no dará problemas ya que es una persona positiva y muy constructiva.
+
+Perfil 3: Tranquila, melancólica
+
+No tiene tantos conocimientos en informática, pero es una amante de las redes sociales y la tecnología, por lo que está familiarizada con aplicaciones de este tipo. Es por ello que quizá no quede del todo contenta con el diseño y eche en falta algo más moderno.
+
+Perfil 4: Madura, inquieta
+
+Persona adulta que no está tan familiarizada con las nuevas tecnologías, pueda que le aparezcan problemas durante el uso de la app debido a esto.
+
+
+![image](https://github.com/edu92002/DIU/assets/83074356/b71eb194-4e09-4508-ac8e-cbcf9306cbc7)
+
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
@@ -387,31 +405,37 @@ No han surgido problemas mayores a los usuarios, pues ambas webs tienen un dise�
 
 
 
-## Realizado por:
+### Realizado por:
 
 DIU1_noname_1, formado por Eduardo Sánchez Marroquino
 
 
 
 
-# 1 DESCRIPCIÓN DEL WEBSITE
+### DESCRIPCIÓN DEL WEBSITE
 
-La app a analizar consiste en una aplicación de rutas de andalucía, donde el usuario puede filtrar por sitio y hacer búsquedas de rutas y reservarlas. El usuario para ello necesita registrarse y tener una cuenta. En el menú principal el usuario puede ver sus reservas y alguna reserva destacada, así como la predicción meterorológica de los siguientes días.
+La app a analizar consiste en una aplicación de rutas de andalucía, donde el usuario puede filtrar por sitio y hacer búsquedas de rutas y reservarlas. El usuario para ello necesita registrarse y tener una cuenta. 
 
-También hay un apartado de rutas donde salen rutas recomendadas al usuario y que ppuede reservar el usuario. 
-Por último, hay un apartado de perfil donde el usuario puede ver y editar sus datos, así como ver información acerca de la empresa y cerrar su sesión
+### DRESUMEN EJECUTIVO
 
+La aplicación tiene varias funcionalidades distribuidas en varias pantallas:
 
-# 2 RESUMEN EJECUTIVO
+Pantalla de inicio: En el menú principal el usuario puede ver sus reservas y alguna reserva destacada, así como la predicción meterorológica de los siguientes días, destacar que el usuario puede realizar búsquedas de rutas
+o de lugares en los que realizar rutas.
 
+Pestaña de rutas:  Apartado de rutas donde salen rutas recomendadas al usuario y que puede reservar el usuario. 
 
+Comunidad: Sin implementar.
 
+Perfil: Apartado de perfil donde el usuario puede ver y editar sus datos, así como ver información acerca de la empresa y cerrar su sesión.
 
+#### Problemas encontrados:
 
+Pantalla de top rutas demasiado simple, se deberían añadir algún elemento más para hacerla más llamativa.
+Algunos botones son demasiado pequeños, por ejemplo el botón de reservar, se deberían hacer algo más grandes para que llamen más la atención del usuario.
+Apartado de búsqueda no demasiado llamativa, se podría utiliza un color aún más agresivo o aumentar el tamaño.
 
-
-
-# 3 METODOLOGIA 
+### METODOLOGIA 
 
 #### Metodología de usabililidad
 
@@ -419,12 +443,22 @@ Para analizar la usabilidad de la app se ha realizado un testing A/B y un test S
 que partes de la app llamaban la atención de los usuarios y porque. Después, se dejó a los usuarios probar la aplicación en FIGMA y que intentaran realizar algunas acciones.
  
 
-### Test de usuarios: Participantes
+#### Test de usuarios: Participantes
 
 Los usuarios que han participado en el análisis son Natalia, una estudiante joven de farmacia con experiencia en tecnologías y aplicaciones; y Elena, una mujer adulta que trabaja como enfermera y que no tiene
 tanta experiencia con este tipo de apps.
 
-# 4 CONCLUSIONES 
+Resultado SUS obtenido:
+
+![image](https://github.com/edu92002/DIU/assets/83074356/7d3aef80-f07e-43b4-86a5-f535b7a47567)
+
+Resultado eyetracking obtenido:
+
+![image](https://github.com/edu92002/DIU/assets/83074356/9538efa8-596d-4c83-828b-f834fd002edc)
+![image](https://github.com/edu92002/DIU/assets/83074356/cfd8d6a4-01d0-4a90-8ba4-5ab61cc53a23)
+
+
+### CONCLUSIONES 
 
 
 
@@ -433,16 +467,14 @@ el eyetracking, se cree que algunos botones como los de Reserva podrían ser má
 queda algo de espacio sin usar.
 
 
-### Puntos positivos 
+#### Puntos positivos 
 
 * Sencilla de usar
 * Diseño intuitivo
 * Estructura de la web clara
 * Bastantes imágenes
 
-
-
-### Recomendaciones y propuesta de mejoras: 
+#### Recomendaciones y propuesta de mejoras: 
 
 Rediseño del boceto de top rutas para hacerlo más llamativo visualmente.
 Aumento de botones para que llamen más la atención del usuario.
@@ -452,11 +484,21 @@ Búsqueda algo más grande o llamativa ya que es una parte muy importante de la 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
+### Incidencias 
+-No han habido
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+#### Puntos positivos 
 
+* Sencilla de usar
+* Diseño intuitivo
+* Estructura de la web clara
+* Bastantes imágenes
+
+#### Recomendaciones y propuesta de mejoras: 
+
+Rediseño del boceto de top rutas para hacerlo más llamativo visualmente.
+Aumento de botones para que llamen más la atención del usuario.
+Búsqueda algo más grande o llamativa ya que es una parte muy importante de la web.
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
